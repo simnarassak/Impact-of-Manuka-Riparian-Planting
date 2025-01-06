@@ -23,4 +23,4 @@ The folder also include
 1) SMAP.js - code for extracting soil moisture data from 'NASA/SMAP/SPL4SMGP/007'. While Using replace x,y with the desired lat and long. 
 2) VI.js - code for extracting NDVI and NDMI as time series data from 'COPERNICUS/S2_HARMONIZED'. While Using replace x,y with the desired lat and long.
 3) The extended abstract is published, cite: Rassak, S., Orsi, A., Bifet, A., Ginés, M. J. G., Bohm, K., Kevin, I., ... & Bisht, A. (2024, April). The impact of Mânuka-dominated riparian on lake’s water quality–a multi-source remote sensing approach. In 2024 International Conference on Machine Intelligence for GeoAnalytics and Remote Sensing (MIGARS) (pp. 1-3). IEEE.
-The Conference Journal will be publishing soon
+4) The complete paper will be publishing soon in the Conference Journal
