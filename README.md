@@ -18,3 +18,5 @@ This study employs machine-learning techniques to integrate weather data, remote
 <img src="image/P11.png" width="\linewidth"/>
 <img src="image/P12.png" width="\linewidth"/>
 <img src="image/P13.png" width="\linewidth"/>
+The extended abstract is published Rassak, S., Orsi, A., Bifet, A., Ginés, M. J. G., Bohm, K., Kevin, I., ... & Bisht, A. (2024, April). The impact of Mânuka-dominated riparian on lake’s water quality–a multi-source remote sensing approach. In 2024 International Conference on Machine Intelligence for GeoAnalytics and Remote Sensing (MIGARS) (pp. 1-3). IEEE.
+The Conference Journal will be publishing soon
