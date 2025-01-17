@@ -4,7 +4,6 @@ This folder includes the presentation of the methods covered in the article "The
 
 This study employs machine-learning techniques to integrate weather data, remote sensing data, and soil moisture sensor data for predicting daily soil moisture. The framework used in this study consists of six key processes, data extraction, data pre-processing, model training, model validation and comparison, selected model testing and generate new data set integrating the prediction. The study also performs soil moisture, NDVI and soil loss comparison of experimental plot with Manuka riparian and control plot without Manuka.
 <img src="image/P14.png" width="\linewidth"/>
-<img src="image/Agenda.png" width="\linewidth"/>
 <img src="image/P1.png" width="\linewidth"/>
 <img src="image/P2.png" width="\linewidth"/>
 <img src="image/P3.png" width="\linewidth"/>
