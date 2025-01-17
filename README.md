@@ -12,7 +12,6 @@ This study employs machine-learning techniques to integrate weather data, remote
 <img src="image/P6.png" width="\linewidth"/>
 <img src="image/P7.png" width="\linewidth"/>
 <img src="image/P8.png" width="\linewidth"/>
-<img src="image/P9.png" width="\linewidth"/>
 <img src="image/P10.png" width="\linewidth"/>
 <img src="image/P11.png" width="\linewidth"/>
 <img src="image/P12.png" width="\linewidth"/>
